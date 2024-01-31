@@ -1,0 +1,11 @@
+/* import fonts here must import all fonts */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    html{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+}
